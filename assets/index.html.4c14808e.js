@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"Hello","lang":"en-US","frontmatter":{},"excerpt":"","headers":[{"level":3,"title":"hallo","slug":"hallo","link":"#hallo","children":[]}],"git":{"updatedTime":1670300432000,"contributors":[{"name":"ませあかり","email":"maseakari@maseakarinoMacBook-Pro.local","commits":1}]},"filePathRelative":"readme.md"}');export{a as data};
